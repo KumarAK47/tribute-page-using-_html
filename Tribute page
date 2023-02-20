@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+</head>
+    <body>
+        <header>
+            
+            <div class="content-wrapper">
+                
+                <div class="float-right">
+                    
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            
+            <section class="content-wrapper main-content clear-fix">
+                
+
+<hgroup class="title">
+
+        <h1 align="center">Tribute Page</h1>
+        <h2 align="center">Task-2</h2>
+        
+    
+</hgroup>
+<center>
+    <div class="bg">
+        <div class="box1">
+            <br><br><br>
+            <h1 class="qwa">  RABINDRANATH TAGORE </h1>
+            
+            <h4 class="qwa">1861 – August 17 1941 </h4>
+        </div>
+        <div class="box2">
+
+            <div class="img">
+                <img align="right" src="Rabindranath Tagore.jpg" width="400" height="400">
+                <img>
+            </div>
+            <div class="qui">
+                <br> <br><br><br><br><br><br>
+                <pre class="tab1">   "If We Work With Determination,We Can Achieve Anything" </pre>
+                
+            </div>
+        </div>
+
+        <div class="box1">
+            <div class="detl">
+
+                Tagore had early success as a writer in his native Bengal. With his translations of some of his poems he became rapidly known in the West. In fact his fame attained a luminous height, taking him across continents on lecture tours and tours of friendship. For the world he became the voice of India’s spiritual heritage; and for India, especially for Bengal, he became a great living institution.
+                
+            </div>
+
+        </div>
+    </div>
+    ------------------------------------------------------------------------------------------------------------------------------------------------
+    <h4> By : Chappa kumar</h4>
+</center>
+<style>
+    .bg {
+        border-radius: 40px;
+        background: linear-gradient(145deg, #36134f, #311467);
+        box-shadow: 35px 35px 75px #5e2989, -27px -27px 66px #ffffff;
+        padding: 30px 30px 30px 30px;
+    }
+    .qwa{
+    color:rgba(131, 90, 97, 0.527);
+    }
+    pre{
+        margin: 0px 40px 60px 20px;
+        font-size: 30px;
+    }
+    .box1 {
+        background-color: rgb(88, 87, 87);
+        color: rgba(28, 14, 14, 0.814);
+        height: 400px;
+        width: auto;
+        align-items:center; 
+        font-size:60px;
+        text-align-last:center;
+    }
+    .box2 {
+        background-color: white;
+        color: black;
+        height: 400px;
+        width: auto;
+        font-size: 50px;
+        text-align:match-parent;
+        text-align:left;
+     
+    }
+
+    .detl{
+        padding:100px 150px 150px 105px;
+        text-size-adjust:collapse;
+    }
+    .qui {
+        tab-size: 2;
+        text-align: left;
+        font-size: large;
+    }
+</style>
+            </section>
+        </div>
+        <div class="footer-basic">
+            <footer>
+                <center>
+                    <br>
+                    
+
+                    <p class="copyright">Made with ❤ by Chappa kumar © 2023</p>
+                    <br><br> <br><br>
+                </center>
+            </footer>
+        </div>
+      <style>
+          
+          .smd {
+              padding: 2px 2px 2px 2px;
+              margin-left: 5px;
+              border-radius: 50%;
+              background: linear-gradient(145deg, #503b3b, #292649);
+              box-shadow: 8px 8px 20px #666666, -8px -8px 20px #ffffff;
+          }
+          .copyright {
+              font-size:medium;
+           
+              color:rgb(71, 64, 93);
+              font-style:oblique;
+          }
+      </style>
+            
+        
+    
+</body></html>
